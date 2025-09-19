@@ -1,0 +1,9 @@
+{
+  "csvPath": "C:\YourPath\SourceSites.csv",
+  "destinationUrl": "https://yourcompany.sharepoint.com/sites/destination/",
+  "reportPath": "C:\\Reports",
+  "username": "DOMAIN\username",
+  "password": "Password",
+  "consolidatedOutputFile": "C:\Output\ConsolidatedReport.xlsx"
+  
+}
